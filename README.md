@@ -4,3 +4,5 @@ jyothirlinga at center axis
 accurate to the lingam
 # Basis
 swalinga
+#mantra
+swa linga su linga sundara linga charchitha linga
