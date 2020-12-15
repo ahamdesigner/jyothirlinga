@@ -1,8 +1,8 @@
-# jyothirlinga
-jyothirlinga at center axis 
-# location
-accurate to the lingam
-# Basis
-swalinga
-#mantra
-swa linga su linga sundara linga charchitha linga
+# लिङ्ग
+लिङ्ग केन्द्र वस्तु
+# आधार
+सुसाधु प्रति विराज लिङ्ग पूजा रचित
+# मूल
+विशेष लिङ्ग
+#मन्त्र
+मम लिङ्ग विशेष लिङ्ग सु लिङ्ग रसाय्य लिङ्ग आर्द्र लिङ्ग बलवत् लिङ्ग
